@@ -11562,6 +11562,10 @@ html {
 
 }
 
+.bg-icon-gradient{
+    background: linear-gradient(135deg, #1e30f3 0%, #217f9b 100%);
+}
+
 .text-gradient {
   /* background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%); */
   background: -webkit-linear-gradient(315deg, #1e30f3 0%, #217f9b
